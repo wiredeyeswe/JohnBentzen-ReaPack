@@ -3,7 +3,7 @@
 -- @author John Bentzen
 -- @about Add Melodyne to selected tracks.
 -- @provides
---   Add Melodyne On Tracks.lua
+-- .
 
 local PLUGIN_NAME = "VST3:Melodyne"
 
