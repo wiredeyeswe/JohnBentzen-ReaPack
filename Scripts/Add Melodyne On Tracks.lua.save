@@ -1,9 +1,15 @@
+reapack-index --name "John Bentzen ReaPack"
+
+
+reapack-index --name "John Bentzen ReaPack"
+
+
+
+
 -- @description JohnBentzen - Add Melodyne
 -- @version 1.0
 -- @author John Bentzen
--- @about Add Melodyne to selected tracks.
--- @provides
---   Add Melodyne On Tracks.lua
+-- @about
 
 local PLUGIN_NAME = "VST3:Melodyne"
 
